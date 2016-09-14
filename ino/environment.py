@@ -70,7 +70,7 @@ class Environment(dict):
     output_dir = '.build'
     src_dir = 'src'
     lib_dir = 'lib'
-    lib_dir_extra = '/ArduinoLibraries'
+    lib_dir_extra = '/Robot/ArduinoLibraries'
     hex_filename = 'firmware.hex'
 
     arduino_dist_dir = None
